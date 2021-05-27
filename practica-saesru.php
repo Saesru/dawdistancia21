@@ -2,7 +2,7 @@
 /**Autor**/
 @autor Santiago Espigares Ruiz
 /**Version**/
-@version 1.0
+@version 1.5
 /**Parametros de entrada de la funcion**/
 @param string $param1
 /**Parametros de salida de la funcion**/
